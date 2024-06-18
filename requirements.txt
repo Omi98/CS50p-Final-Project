@@ -1,1 +1,4 @@
-to be added
+pip libraries to install
+
+1. pip install pytest
+2. pip install tk

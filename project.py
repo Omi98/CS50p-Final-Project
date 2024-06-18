@@ -8,6 +8,10 @@ import tkinter as tk
 global cal_gui, entry1, entry2
 global num1, num2, answer
 global selected_option, option
+num1 = 0
+num2 = 0
+answer = 0
+option = None
 
 
 def main():
